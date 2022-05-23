@@ -1,0 +1,4 @@
+1) ls > output.txt lists everything in that directory and logs the names into a file.
+2) The symbol ">" combined with the ls command makes it so that it's logged inside the file and not in the terminal.
+3) When "git status" is run, it displays "Changes to be commited: new file: newfile.txt". This means that the newfile.txt should be commited.
+4) "gif diff" displays the difference between 2 files, which shows what text has been added or removed. 
